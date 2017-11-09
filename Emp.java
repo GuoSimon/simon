@@ -1,1 +1,1 @@
-System.out.print()
+public  class
