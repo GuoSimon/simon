@@ -1,3 +1,4 @@
+
 public  class  Admin｛
      public  static  void  main(){
 		 
